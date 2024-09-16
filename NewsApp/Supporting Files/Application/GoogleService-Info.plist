@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168148725433-6kq6tmo5ocq995l4p2ccfc1n514e8v24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168148725433-6kq6tmo5ocq995l4p2ccfc1n514e8v24</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFVFJEnMHDLSEP1G2qLckgdN9vmoUDoUE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168148725433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.muhammed.NewsApp</string>
+	<key>PROJECT_ID</key>
+	<string>newsapp-7f8c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapp-7f8c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168148725433:ios:2814024302683940de3568</string>
+</dict>
+</plist>
